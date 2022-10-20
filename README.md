@@ -1,2 +1,1 @@
-# cinehouse
-Exercicios do projeto cinehouse feito nas aulas
+# exercicios para pratica
